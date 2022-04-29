@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.LeftSideNav{
+    background-color: beige;
+    width: 280px;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Roboto Mono', monospace;
+    height: 100vh;
+}
+
+.LeftSideNav nav{
+padding: 20px
+
+}
+
+.LeftSideNav nav li{
+    list-style: none;
+    font-size: 23px;
+    padding: 25px;
+}
+
+.LeftSideNav nav li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+   
+}
+
+
+.main{
+    /* background-color: aqua; */
+    width: 85vw;
+}
+
+
+.container{
+    display:flex;
+}
+
+
+.MainContainer{
+display: flex; 
+background-color: lightgray;
+width: 74vw;
+height: 50vh;
+margin: /*75px*/ auto;
+justify-content: space-around;
+}
+
+
+.Picture img{
+    /* display: flex; */
+    width: 200px;
+    height: 200px;
+   padding-top: 150px;
+    /* justify-content: space-around; */
+    align-items: center;
+    /* margin:; */
+}
+.Info{
+    display:flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+   /* flex-direction flips the axis from horizontal to vertical(align-items to justify-content) ; */
+}
+
+.Int{
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+}
+.Name{
+    /* font-family: 'Rubik Bubbles', cursive; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bolder;
+    /* padding: 25px; */
+}
+.Pass{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 2px;
+}
+.Buttons{
+   margin-top: 25px;
+   border-radius: 10px;
+   padding: 5px;
+   color: white;
+   background-color: black;
+}
+
+.Buttons:hover{
+   background-color: white;
+   color: black;
+}
+
+
+.contactForm{
+    /* display: flex; */
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    height: 100vh;
+    background-color: rgba(139, 204, 241, 0.979);
+    width: 100%;
+}
+.contactForm h2{
+    color: green;
+}
+
+.contactDetails{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    /* text-decoration: none !important; */
+    width: 100%;
+    align-items: flex-end;
+    height: 135px;
+    background-color: aquamarine;
+    margin-top: 668px;
+    padding: 10px;
+    /* margin-bottom: 5vh; */
+    /* display: flex; */
+    text-decoration: none;
+
+} 
+
+.contactNumber{
+    align-items: flex-end;
+    /* background-color: red; */
+    justify-content: center;
+    margin-top: 20px;
+    /* text-align: center; */
+    /* margin-left: 50%; */
+}
+
+.contactEmail{
+    /* background-color: brown; */
+    margin-top: 10px;
+}
+
+.contactDetails button{
+    padding: 5px;
+}
+
+/* My intro css */
+#mainContainer{
+    background-color: white;
+}
+
+#info{
+    background-color: white;
+}
+#info h1{
+    text-decoration-line: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#info p{
+    margin-bottom: 35px;
+}
+.skillsCont{
+font-size: large;
+color: darkslategray;
+}
+
+.skillsHTML{
+    background-color: navy;
+    width: 250px;
+    height: 10px;
+
+}
+.skillsCSS{
+    background-color: navy;
+    width: 187.5px;
+    height: 10px;
+
+}
+.skillsJavaScript{
+    background-color: navy;
+    width: 80px;
+    height: 10px;
+
+}
+.skillsJquery{
+    background-color: navy;
+    width: 62.5px;
+    height: 10px;
+
+}
+.skillsBootstrap{
+    background-color: navy;
+    width: 150px;
+    height: 10px;
+
+}
+.skillsPython{
+    background-color: navy;
+    width: 225px;
+    height: 10px;
+
+}

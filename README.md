@@ -8,13 +8,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/MyPortfolio/main/screenshots/screenshot%20(204).png)
-
-![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/MyPortfolio/main/screenshots/screenshot%20(205).png)
-
-![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/MyPortfolio/main/screenshots/screenshot%20(206).png)
-
-![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/MyPortfolio/main/screenshots/screenshot%20(207).png)
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/MyPortfolio/main/screenshots/Screenshot%20(204).png)
 
 
 ## Github Pagelink
